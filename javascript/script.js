@@ -2,12 +2,12 @@
 const particlesConfig = {
     fpsLimit: 60,
     particles: {
-      number: { value: 160, density: { enable: true, area: 800 } },
+      number: { value: 50, density: { enable: true, area: 800 } },
       color: { value: "#ffffff" },
       shape: { type: "circle" },
       opacity: { value: 1, random: { enable: true, minimumValue: 0.1 } },
-      size: { value: 3, random: { enable: true, minimumValue: 1 } },
-      move: { enable: true, speed: 0.5, direction: "none", random: true, straight: false, outModes: { default: "out" } }
+      size: { value: 1, random: { enable: true, minimumValue: 1 } },
+      move: { enable: true, speed: 0.2, direction: "none", random: true, straight: false, outModes: { default: "out" } }
     },
     interactivity: { detectsOn: "canvas", events: { resize: true } },
     detectRetina: true
