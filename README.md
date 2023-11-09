@@ -2,6 +2,8 @@
 
 Dieses Repository enthält eine benutzerdefinierte Error-Seite, die mit Animationseffekten von `tsparticles` gestaltet ist.
 
+Die Bilder sind mit ChatGPT DALL-E erstellt wurden und können frei verwendet werden. :) viel Spaß!
+
 [Demo Seite](https://404.syscgn.de/)
 
 ## Screenshots
