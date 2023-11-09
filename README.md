@@ -4,8 +4,8 @@ Dieses Repository enthält eine benutzerdefinierte Error-Seite, die mit Animatio
 
 ## Screenshots
 
-![Error Page Screenshot](Screenshots/Screenshot1.jpg)
-![Error Page Screenshot](Screenshots/Screenshot2.jpg)
+![Error Page Screenshot](Screenshot/Screenshot1.jpg)
+![Error Page Screenshot](Screenshot/Screenshot2.jpg)
 
 ## Verwendung
 
